@@ -1,0 +1,80 @@
+
+[
+    {
+        "id": "0181",
+        "category_id": "01",
+        "rating": 4.5,
+        "total_view": 488,
+        "title": "Digital Marketing",
+        "starting_date": "2023-01-15",
+        "fee": 34.99,
+        "image_url": "https://img.freepik.com/premium-vector/purple-web-development-background_76964-167.jpg?w=1380",
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": "0282",
+        "category_id": "02",
+        "rating": 4.8,
+        "total_view": 552,
+        "title": "Motion Graphics",
+        "starting_date": "2023-01-15",
+        "fee": 39.99,
+        "image_url": "https://img.freepik.com/free-psd/horizontal-banner-computer-animation_23-2148980048.jpg?w=826&t=st=1666693000~exp=1666693600~hmac=201a36f8a18fb482c7347b2077a52ea3c102fcf20f87fbcae38986324fcb6375",
+        "details": "Motion graphics is animation, but with text as a major component. Essentially, it's animated graphic design.Ever since motion graphics first entered the scene, there's been a debate about the line between them and full animation. The opening credits of Hitchcock's Psycho is an early example of motion graphics, where the marriage of sound, motion, and graphic design come together exceptionally well."
+    },
+    {
+        "id": "0383",
+        "category_id": "03",
+        "rating": 5.2,
+        "total_view": 450,
+        "title": "Fullstack Web Development",
+        "starting_date": "2023-01-15",
+        "fee": 59.99,
+        "image_url": "https://img.freepik.com/free-vector/colorful-web-design-concept-with-flat-design_23-2147952449.jpg?w=740&t=st=1666693105~exp=1666693705~hmac=cc43a23203a936980a4d4b5536136ef519cc1a39c2efaa0e67d31bf0b68ba236",
+        "details": "It refers to the development of both front end(client side) and back end(server side) portions of web application.Full stack web developers have the ability to design complete web applications and websites. They work on the frontend, backend, database and debugging of web applications or websites."
+    },
+    {
+        "id": "0484",
+        "category_id": "04",
+        "rating": 4.9,
+        "total_view": 450,
+        "title": "Fundamental Of UI/UX Design",
+        "starting_date": "2023-01-15",
+        "fee": 49.99,
+        "image_url": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065782.jpg?w=740&t=st=1666693484~exp=1666694084~hmac=946c6d8d4155612c8ca92da3d91af51ea4d9960bd6cca3cd86a536ad0247c0a7",
+        "details": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone."
+    },
+    {
+        "id": "0585",
+        "category_id": "05",
+        "rating": 5.5,
+        "total_view": 500,
+        "title": "Javascript Basic to advanced",
+        "starting_date": "2023-01-15",
+        "fee": 44.99,
+        "image_url": "https://img.freepik.com/premium-psd/javascript-document-file-sing-3d-render-concept-create-games-application-developer_492780-4365.jpg?w=740",
+        "details": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. It is a very powerful client-side scripting language that makes your webpage more lively and interactive. It is a programming language that helps you to implement a complex and beautiful design on web pages. If you want your web page to look alive and do a lot more than just gawk at you, JavaScript is a must."
+    },
+    {
+        "id": "0686",
+        "category_id": "06",
+        "rating": 5.7,
+        "total_view": 460,
+        "title": "Photography Basic Rules",
+        "starting_date": "2023-01-15",
+        "fee": 37.99,
+        "image_url": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1666935302~exp=1666935902~hmac=fc59a69986a892e2406f38292f36734a62657aaa11715a3ecc19eadf4dd32deb",
+        "details": " Photography is the art of capturing light with a camera, usually via a digital sensor or film, to create an image. The word Photography literally means 'drawing with light', which derives from the Greek photo, meaning light and graph, meaning to draw. Photography is the process of recording an image  a photograph on lightsensitive film or, in the case of digital photography, via a digital electronic or magnetic memory."
+    },
+    {
+        "id": "0787",
+        "category_id": "07",
+        "rating": 4.7,
+        "total_view": 490,
+        "title": "Data Entry",
+        "starting_date": "2023-01-15",
+        "fee": 29.99,
+        "image_url": "https://img.freepik.com/premium-photo/blackboard-with-seo_253658-5046.jpg?w=740",
+        "details": "Data entry is the process of entering information from paper documents into a computer using data processing software. Often, it's an entry-level job with no experience required. You just walked the dog and had a cup of coffee on the couch in the middle of your work day. It is also the process of entering data and updating information into some electronic service or database. An individual that enters data does so by directly inputting data into a company database with a computer, mouse, keyboard, scanner or other data entry tool."
+    }
+]
